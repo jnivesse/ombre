@@ -1,0 +1,14 @@
+h1{
+    text-shadow: -13px -9px 5px purple
+}
+
+#texte1{
+
+    box-shadow: -13px -9px 5px rgb(214, 36, 102),13px 9px 5px rgb(214, 36, 102)
+                
+}
+
+#texte2{
+
+    box-shadow: -17px 7px 5px rgb(36, 217, 123);
+}
